@@ -20,7 +20,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-![Imgur](https://i.imgur.com/Abwhi6S.gif)
+![Imgur](https://i.imgur.com/lDlEClu.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
