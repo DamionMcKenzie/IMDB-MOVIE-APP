@@ -15,6 +15,11 @@ The following **required** functionality is completed:
     * [ ] When clicking on a popular movie (i.e. a movie voted for more than 5 stars) the video should be played immediately.
     * [ ] Less popular videos rely on the detailed page should show an image preview that can initiate playing a YouTube video.
 
+The following **optional** features will be implemented later on:
+
+* [ ] Add a play icon overlay to popular movies to indicate that the movie can be played.
+* [ ] Apply the popular ButterKnife annotation library to reduce view boilerplate.
+* [ ] Add a rounded corners for the images using the Glide transformations. 
 
 ## Video Walkthrough
 
