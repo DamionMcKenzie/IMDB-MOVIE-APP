@@ -71,7 +71,7 @@ public class MoviesAdapter extends RecyclerView.Adapter<MoviesAdapter.ViewHolder
             Glide.with(context).load(movie.getPosterPath()).into(ivPoster);
             container.setOnClickListener(v -> {
                 Intent intent = new Intent(context, DetailActivity.class);
-                intent.putExtra(MOVIE, Parcels.wrap(movie.getId()));
+                intent.putExtra(MOVIE, Parcels.wrap(movie));
                 context.startActivity(intent);
             });
         }
